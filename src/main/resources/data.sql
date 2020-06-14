@@ -1,0 +1,1 @@
+insert into product_table(name, category, price, manufacturer, unit_in_stock, description) values ("Shirts","clothes", 10000, "Adidas", 100, "spring clothes!")

@@ -42,7 +42,7 @@ public class Product implements Serializable {
 	@Column(name = "manufacturer")
 	private String manufacturer;
 	
-	@Column(name = "unitInStock")
+	@Column(name = "unit_in_stock")
 	private int unitInStock;
 	
 	@Column(name = "description")
