@@ -1,1 +1,5 @@
 insert into product_table(name, category, price, manufacturer, unit_in_stock, description) values ("Shirts","clothes", 10000, "Adidas", 100, "spring clothes!")
+insert into product_table(name, category, price, manufacturer, unit_in_stock, description) values ("Pants","clothes", 15000, "Adidas", 50, "sports trousers!!")
+insert into product_table(name, category, price, manufacturer, unit_in_stock, description) values ("TV","appliances", 1000000, "Samsung", 10, "OLED!")
+insert into product_table(name, category, price, manufacturer, unit_in_stock, description) values ("Microwave","appliances", 500000, "SK", 40, "고급형 전자레인지!")
+insert into product_table(name, category, price, manufacturer, unit_in_stock, description) values ("Refrigerator","appliances", 3000000, "LG", 5, "양문형 냉장고!")
